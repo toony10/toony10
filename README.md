@@ -19,7 +19,7 @@ I’m a passionate **Front-End Developer** focused on building fast, modern, and
 ## 🛠️ Tech Stack
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL
-- **Frameworks/Libraries:** React.js, Next.js, Zustand
+- **Frameworks/Libraries:** React.js, Next.js, Zustand, i18n
 - **Styling:** Tailwind CSS, Bootstrap, Material UI, ShadCN
 - **Tools:** Git, npm, VS Code, Cursor
 - **Other:** Algorithms, Data Structures, OOP, Basic Node.js
