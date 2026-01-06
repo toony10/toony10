@@ -39,7 +39,7 @@ I’m a passionate **Front-End Developer** focused on building fast, modern, and
 ---
 
 ## 💼 Experience
-- **Front-end Developer at Inno Code (Jul 2025 – present)
+- **Front-end Developer at Inno Code** (Jul 2025 – present)
    Built and optimized responsive web interfaces using Next.js, Tailwind CSS and Shadcn, ensuring smooth user experience.
    and Collaborated with back-end developers to integrate APIs and improve overall application performance.
 - **Freelance React.js Developer** (Aug 2022 — Present)  
