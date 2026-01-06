@@ -42,7 +42,7 @@ I’m a passionate **Front-End Developer** focused on building fast, modern, and
 - **Front-end Developer at Inno Code** (Jul 2025 – present)
    Built and optimized responsive web interfaces using Next.js, Tailwind CSS and Shadcn, ensuring smooth user experience.
    and Collaborated with back-end developers to integrate APIs and improve overall application performance.
-- **Freelance React.js Developer** (Aug 2022 — Present)  
+- **Freelance React.js Developer** (Aug 2022 — Jul 2025)  
   Delivering scalable, high-performance web apps tailored to client needs, with a focus on optimization and UX.
 - **Part-time Remote Developer** (Jul 2023 — Sept 2023)  
   Built a movie review app front-end (Next.js + Tailwind CSS), increasing user engagement by 15%.
