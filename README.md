@@ -28,13 +28,16 @@ I’m a passionate **Front-End Developer** focused on building fast, modern, and
 
 ## 🌟 Featured Projects
 
-### [Tona](https://tona-ecommerce-kappa.vercel.app)
-> Modern e-commerce app built with Next.js (Server Actions), Supabase, and Zustand.  
-> Features a smooth UI with Tailwind CSS, ShadCN UI, and Framer Motion.
+### [Qutoof](https://qutooforganic.com)
+> Built the front-end of an e-commerce website specialized in natural products (coffee, tea, honey) using Next.js,
+Tailwind CSS, ShadCN UI, and Framer Motion.  
+> Designed a modern, responsive, and user-friendly interface to provide a smooth shopping experience with
+nationwide delivery support.
 
-### [Hadarah](https://hadhara-mfv5.vercel.app)
-> Website about ancient Egyptian life & Pharaonic civilization.  
-> Built with Next.js and Tailwind CSS as a graduation project for the Faculty of Archaeology.
+### [Kayan](https://kayaan-eg.com)
+> Developed a responsive construction company portfolio using Next.js, Tailwind CSS, shadcn/ui, framer motion,and
+i18n, featuring a user-friendly interface and a custom dashboard for managing and updating portfolio content
+efficiently.
 
 ---
 
